@@ -1,0 +1,17 @@
+nav {
+font-family: 'Amatic SC', sans-serif;
+font-weight: 700;
+font-size: large;
+color: #a108a1;
+transition: 800ms ease-in-out; 
+}
+nav:hover {
+  color: #bd16eb;
+}
+h1 {
+  color:black;
+  transition: 800ms ease-in-out;
+}
+h1:hover {
+  color: #bd16eb;
+}
