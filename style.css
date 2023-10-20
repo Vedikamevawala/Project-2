@@ -39,3 +39,7 @@ h1 {
 h1:hover {
   color: #bd16eb;
 }
+.FunFacts {
+  width: 80%;
+  margin: 17.5vh auto;
+}

@@ -11,7 +11,7 @@ nav {
   transition: 800ms ease-in-out; 
   background-color: rgb(246, 239, 238);
   }
-  
+
   nav ul {
     margin: 0;
     list-style: none;
@@ -38,5 +38,9 @@ nav {
   }
   h1:hover {
     color: #bd16eb;
+  }
+  main {
+    width: 80vw;
+    margin-top: 17.5vh;
   }
   

@@ -39,4 +39,7 @@ nav {
   h1:hover {
     color: #bd16eb;
   }
-  
+  section {
+    width: 80%;
+    margin-top: 17.5vh;
+  }
