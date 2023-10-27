@@ -40,7 +40,7 @@ nav {
     color: #bd16eb;
   }
   main {
-    width: 80vw;
-    margin-top: 17.5vh;
+    width: 80%;
+    margin: 17.5vh auto;
   }
   
